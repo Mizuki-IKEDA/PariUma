@@ -1,2 +1,2 @@
 # PariUma
-Japanese food search enginefor Paris
+Japanese food search engine for the city of Paris
